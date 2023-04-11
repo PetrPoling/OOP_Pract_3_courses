@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3gauh1eOCpmkUILbsHbJLZRU3soWCb4JDHlJMEWMT7fxqmYsVvCJ7n14NgYdRGGHvnZ0cFLt/tgXqcKS9Rn4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\OOP\\OOP\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
